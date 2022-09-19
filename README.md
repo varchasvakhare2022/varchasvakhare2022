@@ -33,6 +33,11 @@
 
 I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at VIT University.
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varchasvakhare2022&theme=buefy-dark)](https://git.io/streak-stats)
 - :telescope: Currently pursuing B.Tech in Computer Science and Engineering.
 
 - :seedling: I love to learn new things, currently working on a [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=872002294219157534&permissions=140123778112&scope=bot%20applications.commands).

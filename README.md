@@ -35,5 +35,15 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 - :telescope: Currently pursuing B.Tech in Computer Science and Engineering.
 
-- :seedling: I love to learn new things, currently working on a [discord bot](https://discord.com/api/oauth2/authorize?client_id=872002294219157534&permissions=140123778112&scope=bot%20applications.commands).
+- :seedling: I love to learn new things, currently working on a [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=872002294219157534&permissions=140123778112&scope=bot%20applications.commands).
 
+---
+
+### :hammer_and_wrench: Languages I know :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js UI" width="40" height="40"/>
+</div>

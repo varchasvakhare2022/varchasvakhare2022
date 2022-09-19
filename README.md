@@ -13,3 +13,7 @@
     <img src="https://img.shields.io/badge/instagram-ff66cc?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+<div id="counter", align="center">
+  <img src="https://komarev.com/ghpvc/?username=varchasvakhare2022&style=flat-square&color=green" alt="Counter"/>
+ </div>

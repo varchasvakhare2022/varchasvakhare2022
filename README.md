@@ -53,3 +53,5 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varchasvakhare2022&theme=buefy-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varchasvkhare&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

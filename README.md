@@ -37,4 +37,3 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 - :seedling: I love to learn new things, currently working on a [discord bot](https://discord.com/api/oauth2/authorize?client_id=872002294219157534&permissions=140123778112&scope=bot%20applications.commands).
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Varchasva-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varchasva-khare-a167b9249/)

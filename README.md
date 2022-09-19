@@ -52,6 +52,4 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varchasvakhare2022&theme=buefy-dark)](https://git.io/streak-stats)
-
-[![Varchasva's GitHub stats](https://github-readme-stats.vercel.app/api?username=varchasvakhare2022)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varchasvakhare2022)](https://github.com/anuraghazra/github-readme-stats)

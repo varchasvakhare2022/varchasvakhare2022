@@ -19,10 +19,22 @@
  </div>
 
 <h1 align="center">
-  hey there
+  Hey, Nice to see you here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :woman_technologist: About Me :
+
+I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at VIT University.
+
+- :telescope: Currently pursuing B.Tech in Computer Science and Engineering.
+
+- :seedling: I love to learn new things, currently working on a [discord bot](https://discord.com/api/oauth2/authorize?client_id=872002294219157534&permissions=140123778112&scope=bot%20applications.commands).
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varchasva-khare-a167b9249/)

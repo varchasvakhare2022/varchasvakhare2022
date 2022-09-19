@@ -54,4 +54,4 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=varchasvakhare2022&theme=python-dark)](https://github.com/varchasvakhare2022)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/varchasvakhare2022)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&border_color=blue)](https://github.com/varchasvakhare2022)

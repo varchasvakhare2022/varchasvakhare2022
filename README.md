@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./logo.png" width="100"/>
+  <img src="./git-pfp.png" width="100"/>
 </div>
 
 <div id="badges", align="center">

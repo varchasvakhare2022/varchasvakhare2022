@@ -10,7 +10,7 @@
     <img src="./discord.png" width="40px" alt="Discord Badge"/>
   </a>
   <a href="https://www.instagram.com/varchasvkhare/">
-    <img src="./instagram.png" widht="40px" alt="Instagram Badge"/>
+    <img src="./instagram.png" width="40px" alt="Instagram Badge"/>
   </a>
 </div>
 

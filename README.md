@@ -10,7 +10,7 @@
     <img src="./discord.png" width="40px" alt="Discord Badge"/>
   </a>
   <a href="https://www.instagram.com/varchasvkhare/">
-    <img src="https://img.shields.io/badge/instagram-ff66cc?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="./instagram.png" alt="Instagram Badge"/>
   </a>
 </div>
 

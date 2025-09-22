@@ -53,3 +53,31 @@
 </h4>  
 
 #
+
+<h1>
+  Connect With Me
+  <img src="img/Handshake.gif" height="25px"/>
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/varchasva/" target="_blank">
+    <code><img height="60" width="60" src="img/linkedin.svg"/></code>
+  </a>
+  <a href="https://www.instagram.com/varchasvkhare/" target="_blank">
+    <code><img height="60" width="60" src="img/instagram.svg"/></code>
+  </a>
+  <a href="https://twitter.com/varchasva_" target="_blank">
+    <code><img height="60" width="60" src="img/twitter.svg"/></code>
+  </a>    
+</p>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+#
+
+![footer](img/footer.webp)

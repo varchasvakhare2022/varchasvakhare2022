@@ -1,10 +1,32 @@
+<div align="center">
+  <h1>
+    Hi there, I'm Varchasva Khare!
+    <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+  </h1>
+
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+
+  <p>
+    <em>🚀 Full Stack Developer</a></em>
+  </p>
+
+  <p>
+    <a href="https://github.com/varchasvakhare2022">
+      <img src="https://img.shields.io/github/followers/varchasvakhare2022?label=Follow&style=social" />
+    </a>
+    <a href="https://github.com/varchasvakhare2022">
+      <img src="https://komarev.com/ghpvc/?username=varchasvakhare2022&color=blueviolet" />
+    </a>
+  </p>
+</div>
+
 #
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=varchasvakhare2022&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
   <img height="150" width="150" src="img/left_wing.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/api?user=varchasvakhare2022&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varchasvakhare2022&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="img/right_wing.webp"/>
 </p>
 

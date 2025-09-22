@@ -13,90 +13,33 @@
         <img src="img/left_wing.webp" alt="Left Wing" width="100%"/>
       </td>
       <td align="center" width="34%">
-        <h3>📈 Contribution Statistics</h3>
-        <table>
-          <tr>
-            <td align="center">
-              <strong>Total Contributions</strong><br/>
-              <span style="font-size: 24px; color: #00ff41;">98,290</span><br/>
-              <small>Aug 24, 2019 - Present</small>
-            </td>
-            <td align="center">
-              <strong>Current Streak</strong><br/>
-              <span style="font-size: 24px; color: #ff6b35;">🔥 2,222</span><br/>
-              <small>Aug 24, 2019 - Sep 22</small>
-            </td>
-            <td align="center">
-              <strong>Longest Streak</strong><br/>
-              <span style="font-size: 24px; color: #00ff41;">2,222</span><br/>
-              <small>Aug 24, 2019 - Sep 22</small>
-            </td>
-          </tr>
-        </table>
+        <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #333;">
+          <table style="width: 100%;">
+            <tr>
+              <td align="center" style="border-right: 1px solid #fff; padding: 10px;">
+                <div style="font-size: 32px; color: #fff; font-weight: bold;">98,290</div>
+                <div style="color: #fff; font-size: 14px;">Total Contributions</div>
+                <div style="color: #fff; font-size: 12px;">Aug 24, 2019 - Present</div>
+              </td>
+              <td align="center" style="border-right: 1px solid #fff; padding: 10px;">
+                <div style="background-color: #ff6b35; border-radius: 50%; width: 60px; height: 60px; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
+                  <span style="font-size: 24px;">🔥</span>
+                </div>
+                <div style="font-size: 32px; color: #fff; font-weight: bold;">2,222</div>
+                <div style="color: #fff; font-size: 14px;">Current Streak</div>
+                <div style="color: #fff; font-size: 12px;">Aug 24, 2019 - Sep 22</div>
+              </td>
+              <td align="center" style="padding: 10px;">
+                <div style="font-size: 32px; color: #fff; font-weight: bold;">2,222</div>
+                <div style="color: #fff; font-size: 14px;">Longest Streak</div>
+                <div style="color: #fff; font-size: 12px;">Aug 24, 2019 - Sep 22</div>
+              </td>
+            </tr>
+          </table>
+        </div>
       </td>
       <td align="center" width="33%">
         <img src="img/right_wing.webp" alt="Right Wing" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🏅 Achievement Trophies
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>MultiLanguage</strong><br/>
-        🏆 Rainbow Lang User<br/>
-        <span style="color: #00ff41;">25pt</span>
-      </td>
-      <td align="center">
-        <strong>Organizations</strong><br/>
-        🏆 Jack of all Trades<br/>
-        <span style="color: #00ff41;">109pt</span>
-      </td>
-      <td align="center">
-        <strong>Commits</strong><br/>
-        🏆🏆🏆 God Committer<br/>
-        <span style="color: #ffd700;">4.1kpt</span>
-      </td>
-      <td align="center">
-        <strong>Followers</strong><br/>
-        🏆🏆🏆 Super Celebrity<br/>
-        <span style="color: #ffd700;">1.1kpt</span>
-      </td>
-      <td align="center">
-        <strong>PullRequest</strong><br/>
-        🏆🏆🏆 God Puller<br/>
-        <span style="color: #ffd700;">2.4kpt</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>Repositories</strong><br/>
-        🏆🏆🏆 God Repo Creator<br/>
-        <span style="color: #ffd700;">207pt</span>
-      </td>
-      <td align="center">
-        <strong>Stars</strong><br/>
-        🏆🏆 High Stargazer<br/>
-        <span style="color: #ffd700;">1.3kpt</span>
-      </td>
-      <td align="center">
-        <strong>Issues</strong><br/>
-        🏆 Super Issuer<br/>
-        <span style="color: #ffd700;">223pt</span>
-      </td>
-      <td align="center">
-        <strong>Experience</strong><br/>
-        🏆🏆 Experienced Dev<br/>
-        <span style="color: #ffd700;">22pt</span>
-      </td>
-      <td align="center">
-        <strong>Reviews</strong><br/>
-        🏆 Unknown<br/>
-        <span style="color: #ff69b4;">0pt</span>
       </td>
     </tr>
   </table>

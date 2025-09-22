@@ -33,8 +33,8 @@
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Innovation is a puzzle - every twist  @@
-@@   ❮(|~o.o~|)❯  unlocks a new design.                @@
+@@   ❮\/__-__\/❯   Innovation is a puzzle every        @@
+@@   ❮(|~o.o~|)❯   twist unlocks a new design.         @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@

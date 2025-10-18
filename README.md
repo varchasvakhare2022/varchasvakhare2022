@@ -19,14 +19,14 @@
     </a>
   </p>
 </div>
-<p>
-  <em>👋 Hey there! I’m a Full Stack Developer and UI/UX Designer who loves transforming ideas into interactive web experiences.
+<p align="center">
+  👋 Hey there! I’m a Full Stack Developer and UI/UX Designer who loves transforming ideas into interactive web experiences.
 
 I design with empathy and build with precision — from crafting pixel-perfect interfaces to writing clean, scalable code. I’m fluent in the MERN stack and always exploring new ways to make the web faster, smarter, and more human.
 
 When I’m not coding, I’m usually sketching new UI concepts or optimizing a design system.
 
-Let’s build something impactful together. 🚀</a></em>
+Let’s build something impactful together. 🚀
 </p>
 
 #

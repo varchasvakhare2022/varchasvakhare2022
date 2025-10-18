@@ -101,7 +101,7 @@
   <a href="https://www.instagram.com/varchasvkhare/" target="_blank">
     <code><img height="60" width="60" src="img/instagram.svg"/></code>
   </a>
-  <a href="https://twitter.com/varchasva_" target="_blank">
+  <a href="https://twitter.com/varchasvkhare_" target="_blank">
     <code><img height="60" width="60" src="img/twitter.svg"/></code>
   </a>    
 </p>

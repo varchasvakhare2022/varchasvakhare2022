@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
   <p>
-    <em>🚀 Full Stack Developer</a></em>
+    <em>Full Stack Developer | Frontend Developer | UI/UX Designer</a></em>
   </p>
 
   <p>

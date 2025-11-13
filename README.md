@@ -77,7 +77,7 @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
+@@     ( ) ( )   Testing leads to failure,             @@
 @@     |_| |_|   and failure leads to understanding    @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@

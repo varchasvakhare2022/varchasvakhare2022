@@ -34,7 +34,7 @@
 
 #
 <div align="center">
-  [𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=varchasvakhare2022&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+  <img src="https://github-profile-trophy.vercel.app?username=varchasvakhare2022&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <p align="center">

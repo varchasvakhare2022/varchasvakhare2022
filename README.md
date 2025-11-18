@@ -38,9 +38,9 @@
 </div>
 
 <p align="center">
-  <img height="150" width="150" src="img/left_wing.webp"/>
+  <img height="150" width="150" src="img/left_wing.png"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varchasvakhare2022&theme=dracula&background=000000&border=330000&ring=550000&fire=aa0000&currStreakNum=ff5555&sideNums=cc3333&currStreakLabel=ff7777&sideLabels=cc4444&dates=888888&hide_border=true"/>
-  <img height="150" width="150" src="img/right_wing.webp"/>
+  <img height="150" width="150" src="img/right_wing.png"/>
 </p>
 
 #

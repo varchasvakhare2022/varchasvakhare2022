@@ -1,7 +1,6 @@
 <div align="center">
   <h1 style="color:#ff003c;">
     🦇 Greetings, I'm Varchasva Khare!
-    <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
   </h1>
 
   <img src="img/bats-fullmoon.gif" width="300" />

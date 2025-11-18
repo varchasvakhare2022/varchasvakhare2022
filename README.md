@@ -54,7 +54,7 @@
 </details>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=varchasvakhare2022&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=varchasvakhare2022&bg_color=0a0a0f&color=b45cff&line=ff003c&point=ff003c&area=true&area_color=4b0c1c&hide_border=true&radius=10&custom_title=🦇%20Varchasva's%20Midnight%20Activity%20🩸)
 
 <p align="center">
   <picture>

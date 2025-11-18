@@ -63,11 +63,21 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake-dark.svg?palette=solarized" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake.svg?palette=dracula-pro" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake.svg" />
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake-dark.svg?palette=dracula-pro&color_snake=purple&color_dots=red&speed=0.5&size=20&snake=rounded" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake.svg?palette=dracula-pro&color_snake=purple&color_dots=red&speed=0.5&size=20&snake=rounded" 
+    />
+    <img 
+      alt="github contribution snake" 
+      src="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake.svg?palette=dracula-pro&color_snake=purple&color_dots=red&speed=0.5&size=20&snake=rounded" 
+    />
   </picture>
 </p>
+
 
 
 #

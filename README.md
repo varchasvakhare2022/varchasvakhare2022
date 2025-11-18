@@ -49,7 +49,7 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=varchasvakhare2022&show_icons=true&theme=dracula&title_color=ff003c&icon_color=b45cff&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varchasvakhare2022&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varchasvakhare2022&layout=compact&theme=dracula&title_color=ff003c&text_color=b45cff&bg_color=0a0a0f&hide_border=true" />
 </p>
 </details>
 <br/>

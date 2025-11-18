@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
+      - master
       - main
 
 jobs:
@@ -18,5 +19,5 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#b45cff&color_dots=#1e1f29,#ff4d4d,#ff6666,#ff8080,#ff9999
-            dist/github-snake-dark.svg?color_snake=#b45cff&color_dots=#1e1f29,#ff4d4d,#ff6666,#ff8080,#ff9999
+            dist/github-snake.svg?color_snake=#ff003c&color_dots=#1a0015,#aa0000,#cc0000,#ff003c,#ff3355
+            dist/github-snake-dark.svg?color_snake=#ff003c&color_dots=#1a0015,#aa0000,#cc0000,#ff003c,#ff3355

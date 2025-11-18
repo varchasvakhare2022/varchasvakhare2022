@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>
+  <h1 style="color:#ff003c;">
     Hi there, I'm Varchasva Khare!
     <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
   </h1>

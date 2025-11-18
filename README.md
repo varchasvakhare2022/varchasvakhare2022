@@ -45,14 +45,14 @@
 
 #
 
-
-
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=varchasvakhare2022&show_icons=true&theme=dracula&title_color=ff003c&icon_color=b45cff&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varchasvakhare2022&layout=compact&theme=dracula&title_color=ff003c&text_color=b45cff&bg_color=0a0a0f&hide_border=true" />
 </p>
 </details>
 <br/>
+
+#
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=varchasvakhare2022&bg_color=0a0a0f&color=b45cff&line=ff003c&point=ff003c&area=true&area_color=4b0c1c&hide_border=true&radius=10&custom_title=🦇%20Varchasva's%20Midnight%20Activity%20🩸)
 

@@ -1,18 +1,18 @@
 <div align="center">
   <h1 style="color:#ff003c;">
-    Hi there, I'm Varchasva Khare!
+    🦇 Greetings, I'm Varchasva Khare!
     <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
   </h1>
 
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
   <p>
-    <em>Full Stack Developer | Frontend Developer | UI/UX Designer</a></em>
+    <em>Full Stack Developer | Frontend Developer | UI/UX Designer</em>
   </p>
 
   <p>
     <a href="https://github.com/varchasvakhare2022">
-      <img src="https://img.shields.io/github/followers/varchasvakhare2022?label=Follow&style=social" />
+      <img src="https://img.shields.io/github/followers/varchasvakhare2022?label=Follow&style=social&color=ff003c&labelColor=1a0015" />
     </a>
     <a href="https://github.com/varchasvakhare2022">
       <img src="https://komarev.com/ghpvc/?username=varchasvakhare2022&color=blueviolet" />
@@ -20,16 +20,16 @@
   </p>
 </div>
 <p align="center">
-  👋 Hey there! I’m a Full Stack Developer and UI/UX Designer who loves transforming ideas into interactive web experiences.
+  🦇 Greetings, mortal! I'm a Full Stack Developer and UI/UX Designer who thrives in the darkness, transforming ideas into interactive web experiences under the moonlight.
 </p>
 <p align="center">
-  I design with empathy and build with precision — from crafting pixel-perfect interfaces to writing clean, scalable code. I’m fluent in the MERN stack and always exploring new ways to make the web faster, smarter, and more human.
+  I design with eternal precision and build with immortal dedication — from crafting pixel-perfect interfaces that seduce users to writing clean, scalable code that stands the test of time. I'm fluent in the MERN stack and always exploring new ways to make the web faster, smarter, and more enchanting.
 </p>
 <p align="center">
-  When I’m not coding, I’m usually sketching new UI concepts or optimizing a design system.
+  When I'm not feeding on code in the midnight hours, I'm usually sketching new UI concepts or optimizing design systems to perfection.
 </p>
 <p align="center">
-  <i>Let’s build something impactful together. 🚀</i>
+  <i>Let's create something that will last for eternity... 🩸</i>
 </p>
 
 #
@@ -77,10 +77,13 @@
 
 #
 
-<h1>
-  Connect With Me
+<h1 align="center">
+  🦇 Join My Coven 
   <img src="img/Handshake.gif" height="25px"/>
 </h1>
+<p align="center">
+  <em>Let's connect under the moonlight and create something eternal together</em>
+</p>
 
 <p align="center">
   <br>
@@ -96,7 +99,7 @@
 </p>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show your eternal appreciation by starring ⭐ some of my repositories! 🩸
 
 </div>
 

@@ -15,15 +15,16 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
+    
     steps:
       - name: Generate GitHub contribution snake (SVG only)
         uses: Platane/snk/svg-only@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             github-snake.svg?color_snake=#ff003c&color_dots=#1a0015,#aa0000,#cc0000,#ff003c,#ff3355
             github-snake-dark.svg?color_snake=#ff003c&color_dots=#1a0015,#aa0000,#cc0000,#ff003c,#ff3355
-          branch: master

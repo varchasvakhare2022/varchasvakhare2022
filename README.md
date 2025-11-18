@@ -63,7 +63,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake-dark.svg?palette=dracula-pro" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake-dark.svg?palette=solarized" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake.svg?palette=dracula-pro" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake.svg" />
   </picture>

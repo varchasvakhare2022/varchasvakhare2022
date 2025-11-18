@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate contribution snake
+      - name: Generate contribution snake (SVG)
         uses: Platane/snk@v3
         with:
           github_user_name: "varchasvakhare2022"
@@ -24,7 +24,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

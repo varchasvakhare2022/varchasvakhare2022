@@ -34,18 +34,7 @@
 
 #
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varchasvakhare2022
-&theme=dracula
-&column=-1
-&row=1
-&margin-w=15
-&margin-h=15
-&no-bg=true
-&no-frame=true
-&title_color=ff003c
-&text_color=b45cff
-&bg_color=0a0a0f
-&border_color=ff003c" height="150" alt="Trophy Graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=varchasvakhare2022&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph />
 </div>
 
 <p align="center">

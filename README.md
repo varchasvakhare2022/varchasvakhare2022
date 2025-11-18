@@ -96,4 +96,4 @@
 
 #
 
-<img src="img/footer.png" alt="footer" style="height: 130px; width: 100%; object-fit: cover; object-position: center 70%;" />
+<img src="img/footer.png" alt="footer" />

@@ -4,8 +4,10 @@
     <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
   </h1>
 
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=varchasvakhare2022&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph />
-
+</div>
+  
   <p>
     <em>Full Stack Developer | Frontend Developer | UI/UX Designer</em>
   </p>

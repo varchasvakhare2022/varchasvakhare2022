@@ -8,6 +8,8 @@ on:
     branches:
       - master
       - main
+    paths-ignore:
+      - 'github-snake*.svg'  # Don't trigger on snake file changes
 
 permissions:
   contents: write
@@ -24,3 +26,4 @@ jobs:
           outputs: |
             github-snake.svg?color_snake=#ff003c&color_dots=#1a0015,#aa0000,#cc0000,#ff003c,#ff3355
             github-snake-dark.svg?color_snake=#ff003c&color_dots=#1a0015,#aa0000,#cc0000,#ff003c,#ff3355
+          branch: master

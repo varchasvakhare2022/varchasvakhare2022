@@ -60,15 +60,15 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake-dark.svg" 
+      srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/master/github-snake-dark.svg" 
     />
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake.svg" 
+      srcset="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/master/github-snake.svg" 
     />
     <img 
       alt="🦇 Vampire Contribution Snake 🩸" 
-      src="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/output/github-snake.svg" 
+      src="https://raw.githubusercontent.com/varchasvakhare2022/varchasvakhare2022/master/github-snake.svg" 
     />
   </picture>
 </p>

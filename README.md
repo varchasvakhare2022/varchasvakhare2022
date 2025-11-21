@@ -32,9 +32,12 @@
 </p>
 
 #
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=varchasvakhare2022&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph />
 </div>
+
+#
 
 <p align="center">
   <img height="150" width="150" src="img/left_wing.png"/>

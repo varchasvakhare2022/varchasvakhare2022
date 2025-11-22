@@ -33,12 +33,6 @@
 
 #
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=varchasvakhare2022&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph />
-</div>
-
-#
-
 <p align="center">
   <img height="150" width="150" src="img/left_wing.png"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varchasvakhare2022&theme=dracula&background=000000&border=330000&ring=550000&fire=aa0000&currStreakNum=ff5555&sideNums=cc3333&currStreakLabel=ff7777&sideLabels=cc4444&dates=888888&hide_border=true"/>

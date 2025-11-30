@@ -40,7 +40,7 @@
 </p>
 
 <div style="line-height: 0; margin: 0; padding: 0; display: block;">
-  <img src="https://git-jadugar-trophies.vercel.app/api/panels?username=varchasvakhare2022&theme=vampire" alt="GitHub Trophies" style="display: block; margin: 0; padding: 0; vertical-align: bottom; line-height: 0; height: auto;" />
+  <img src="https://git-jadugar-trophies.vercel.app/api/panels?username=varchasvakhare2022&theme=vampire&no-frame=true" alt="GitHub Trophies" style="display: block; margin: 0; padding: 0; vertical-align: bottom; line-height: 0; height: auto;" />
 </div>
 
 #
